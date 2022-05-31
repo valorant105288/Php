@@ -1,0 +1,22 @@
+<students>
+	<student>
+		<studentName>fazle</studentName>
+		<studentRollNo>1</studentRollNo>
+		<class>a</class>
+		<per>70</per>
+	</student>
+
+	<student>
+		<studentName>shoeb</studentName>
+		<studentRollNo>2</studentRollNo>
+		<class>3</class>
+		<per>60</per>
+	</student>
+
+	<student>
+		<studentName>nabeel</studentName>
+		<studentRollNo>3</studentRollNo>
+		<class>c</class>
+		<per>65</per>
+	</student>
+</students>

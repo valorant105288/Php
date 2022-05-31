@@ -1,0 +1,21 @@
+
+<?xml-styleshe type='text/css' href='item.css'?>
+<items>
+<Item>
+ <ItemName>1</ItemName> 
+ <ItemPrice>100</ItemPrice> 
+ <Quantity>2</Quantity>
+</Item>
+
+<Item>
+ <ItemName>2</ItemName> 
+ <ItemPrice>200</ItemPrice> 
+ <Quantity>2</Quantity>
+</Item>
+
+<Item>
+ <ItemName>3</ItemName> 
+ <ItemPrice>300</ItemPrice> 
+ <Quantity>3</Quantity>
+</Item>
+</items>

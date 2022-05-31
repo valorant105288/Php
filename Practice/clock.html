@@ -1,0 +1,16 @@
+<html>
+<body onload="clock()">
+clock:<input type="text" id="i">
+</body>
+<script>
+function clock(){
+	d= new Date();
+	h=d.getHours();
+	m=d.getMinutes();
+	s=d.getSeconds();
+	res=h+":"+m+":"+s;
+	document.getElementById('i').value=res;
+	setInterval("clock()");
+}
+</script>
+</html>
